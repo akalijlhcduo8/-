@@ -1,0 +1,6 @@
+{
+  "name": "NexusKeys - متجر مفاتيح الألعاب الرقمية",
+  "description": "متجر إلكتروني احترافي متكامل لبيع مفاتيح تفعيل ألعاب الكمبيوتر مع تسليم فوري وتخفيضات كبرى.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
